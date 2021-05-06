@@ -6,4 +6,4 @@
 Haciendo uso de los prototypes en javascript, para crear un cotizador de seguros para vehiculos
 ```
 
-[Cotizador de seguros](https:/goofy-almeida-fa4ae8.netlify.app/)
+[Cotizador de seguros](https://goofy-almeida-fa4ae8.netlify.app/)
